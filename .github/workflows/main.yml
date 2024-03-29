@@ -18,8 +18,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Change directory to project
+        run: cd oluwafemidan/oluwafemidan
+
       - name: Install dependencies
         run: npm install
+
 
 
       - name: Set up Node.js 20
