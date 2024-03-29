@@ -42,11 +42,9 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     - name: Push new files to the output branch
+  uses: ad-m/github-push-action@master
+  with:
+    github_token: ${{secrets.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 }}
+    branch: output
+    push_options: --force
