@@ -12,7 +12,7 @@
  
  🔭 I’m currently working with **10Alytics**
  
-💬 Ask me about **Machine Learning, Data Analsyt, Natural Processing Language... or anything [here](https://github.com/oluwafemidan/oluwafemidan/issues)**
+💬 Ask me about **Machine Learning, Deep Learning, Natural Processing Language... or anything [here](https://github.com/oluwafemidan/oluwafemidan/issues)**
 
 ⚡ Fun fact **To be candid i'm actually good with predictions; more or less accurate guesser**
 
